@@ -5,13 +5,16 @@
   "main": "server/index.js",
   "dependencies": {
     "axios": "^0.16.2",
+    "express": "^4.16.4",
+    "express-session": "^1.15.6",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
     "react-icons": "^2.2.5",
     "react-redux": "^5.0.5",
     "react-router-dom": "^4.1.1",
     "redux": "^3.7.0",
-    "redux-promise-middleware": "^4.3.0"
+    "redux-promise-middleware": "^4.3.0",
+    "session": "^0.1.0"
   },
   "devDependencies": {
     "react-scripts": "1.0.7"

@@ -8,7 +8,8 @@ yarn.lock
 # testing
 /coverage
 
-# misc
+# 
+.env
 .DS_Store
 .env.local
 .env.development.local
